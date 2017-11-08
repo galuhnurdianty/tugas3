@@ -29,6 +29,8 @@ int main(){
     			 Area = Base * Height / 2;
     			 cout << "Luas Segitiga Adalah " << Area << endl;
     			 break;
+    	case 3 : cout << "Keluar\nGoodbye!\n";
+    			 break;
 
 	}
 }
