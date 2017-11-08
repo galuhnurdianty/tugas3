@@ -15,6 +15,13 @@ int main(){
     cin  >> Input;
     switch(Input)
     {
-    	
+    	case 1 : cout << "Masukkan tinggi Persegi Panjang: ";
+    			 cin  >> Height;
+    	         cout << "Masukkan lebar Persegi Panjang: ";
+    	         cin  >> Width;
+    	         Area = Height * Width;
+    	         cout << "Luas Persegi Panjang Adalah " << Area << endl;
+    	         break;
+
 	}
 }
