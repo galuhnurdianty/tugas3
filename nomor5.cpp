@@ -9,4 +9,6 @@ int main(){
     cout << "Silahkan Masukkan Tinggi Badan Anda dalam cm : " << endl;
     cin >> height;
 
+	cout << "Silahkan Masukkan Berat badan Anda dalam kg : " << endl;
+    cin >> weight;
 }
