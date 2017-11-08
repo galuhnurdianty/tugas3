@@ -11,5 +11,9 @@ int main(){
    
    else if(angka<0) 
    cout<<"Angka Bernilai Negative";
+   
+	else
+   cout<<"Angka Bernilai Nol";
+ return 0;
  
 }
