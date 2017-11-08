@@ -22,6 +22,13 @@ int main(){
     	         Area = Height * Width;
     	         cout << "Luas Persegi Panjang Adalah " << Area << endl;
     	         break;
+		case 2 : cout << "Masukkan base Segitiga: ";
+    			 cin  >> Base;
+    			 cout << "Masukkan tinggi Segitiga: ";
+    			 cin  >> Height;
+    			 Area = Base * Height / 2;
+    			 cout << "Luas Segitiga Adalah " << Area << endl;
+    			 break;
 
 	}
 }
