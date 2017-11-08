@@ -8,4 +8,13 @@ int main(){
 		   Base, 
 		   Height,
 		   Area;
+	cout << "Menghitung Luas\n";
+    cout << "    1. P\n";
+    cout << "    2. S\n";
+    cout << "    3. Keluar\n\n";
+    cin  >> Input;
+    switch(Input)
+    {
+    	
+	}
 }
