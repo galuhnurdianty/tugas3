@@ -8,5 +8,8 @@ int main(){
  
  if(angka>0)
    cout<<"Angka Bernilai Positive";
+   
+   else if(angka<0) 
+   cout<<"Angka Bernilai Negative";
  
 }
