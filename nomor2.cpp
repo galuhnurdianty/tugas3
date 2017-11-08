@@ -31,6 +31,8 @@ int main(){
     			 break;
     	case 3 : cout << "Keluar\nGoodbye!\n";
     			 break;
+    			 
+    		default: cout << "Pilih Antara Angka 1 2 atau 3!\n";
 
 	}
 }
