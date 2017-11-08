@@ -10,5 +10,11 @@ int main (){
 	
 	cout << "Input nilai y = ";
 	cin  >> y;
+		if (x > y)	{
+		z = y - x;	
+		cout<<abs (z)<<endl;
+		cout<<"Hasil Positif";
+	}
+	
 }
 
