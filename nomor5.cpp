@@ -11,4 +11,7 @@ int main(){
 
 	cout << "Silahkan Masukkan Berat badan Anda dalam kg : " << endl;
     cin >> weight;
+    
+    if (weight<height/2.5)
+    cout << "Result : Underweight" << endl;
 }
