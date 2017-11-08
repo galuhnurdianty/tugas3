@@ -6,4 +6,7 @@ int main(){
  cout<<"Masukkan Angka : ";
  cin>>angka;
  
+ if(angka>0)
+   cout<<"Angka Bernilai Positive";
+ 
 }
